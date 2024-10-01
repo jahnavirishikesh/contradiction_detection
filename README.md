@@ -30,7 +30,7 @@ pip install pandas numpy tensorflow keras
 
 ## Dataset
 
-The model is trained and tested on a dataset 'Contradiction Detection' by athu1105 from Kaggle, provided in CSV format. Please place the training data ('train.csv') and testing data ('test.csv') in the same directory as the code.
+The model is trained and tested on a dataset ['Contradiction Detection'](https://www.kaggle.com/datasets/athu1105/contradiction-detection) by athu1105 from Kaggle, provided in CSV format. Please place the training data ('train.csv') and testing data ('test.csv') in the same directory as the code.
 
 ## Usage
 
